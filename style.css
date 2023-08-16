@@ -1,0 +1,14 @@
+body{
+background-color: antiquewhite;
+}
+h1{
+font-size: 60px;
+color: lightslategray;
+text-align: center;
+
+}
+img{
+width: 300px;
+height: 300px;
+margin-left: 250px;
+}
