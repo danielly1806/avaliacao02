@@ -12,3 +12,23 @@ width: 300px;
 height: 300px;
 margin-left: 250px;
 }
+.curiosidades{ 
+    background-color: aqua;
+display: flex;
+}
+.logoimg{
+width: 150px;
+height: 150px;
+}
+.listacabecalho{ 
+display: flex;
+margin-left: 100px;
+margin-top: 100px;
+
+}
+.itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding-left: 50px;
+}
